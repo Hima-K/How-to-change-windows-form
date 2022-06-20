@@ -1,0 +1,12 @@
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\bin\Debug\How to change windows form.exe.config
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\bin\Debug\How to change windows form.exe
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\bin\Debug\How to change windows form.pdb
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How to change windows form.csproj.AssemblyReference.cache
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How to change windows form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How_to_change_windows_form.Form1.resources
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How_to_change_windows_form.Properties.Resources.resources
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How to change windows form.csproj.GenerateResource.cache
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How to change windows form.csproj.CoreCompileInputs.cache
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How to change windows form.exe
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How to change windows form.pdb
+C:\Users\Hima\Desktop\WFA\How to change windows form\How to change windows form\obj\Debug\How_to_change_windows_form.Form2.resources
